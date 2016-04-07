@@ -2,7 +2,7 @@
 
 *测试
 
-![](https://www.google.com.sg/logos/doodles/2016/lantern-festival-2016-4824959689949184.2-hp.jpg)
+![](https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/super/pic/item/f603918fa0ec08fad1158c335fee3d6d55fbda09.jpg)
 
 # 欢迎使用hosts！
 
