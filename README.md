@@ -2,7 +2,7 @@
 
 *测试
 
-![](https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/super/pic/item/f603918fa0ec08fad1158c335fee3d6d55fbda09.jpg  =500x300)
+<img src="https://ss0.baidu.com/94o3dSag_xI4khGko9WTAnF6hhy/super/pic/item/f603918fa0ec08fad1158c335fee3d6d55fbda09.jpg" width = "300" height = "200" alt="Adven" align=center />
 
 # 欢迎使用hosts！
 
