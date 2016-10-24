@@ -1,0 +1,4 @@
+``` 
+cd c:/windows/system32/drivers/etc 
+powershell curl https://raw.githubusercontent.com/racaljk/hosts/master/hosts -OutFile hosts 
+```
